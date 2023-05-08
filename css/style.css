@@ -1,0 +1,49 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-size: 10px;
+  }
+  
+  .container{
+    margin: auto;
+    max-width: 20vw;  
+  }
+  
+  .textbox-calci{
+    height: 30px;
+    width: 165px;
+    font-size: 20px
+  }
+  
+  
+  .button{
+    margin-top: 5px;
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background-color: #313131;
+    color: white;
+    border-radius: 50%;
+    margin-left: 2px;
+    cursor: pointer;
+  }
+  
+  .button0{
+    padding: 10px;
+    width: 85px;
+    border-radius: 25px;
+    background-color: #313131;
+    border: none;
+    color: white;
+  }
+  
+  .special{
+    background-color: #f69906;
+  }
+  
+  .top-special{
+    background-color: #a0a0a0;
+  }
+  
+ 
